@@ -1,0 +1,10 @@
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\игорь\documents\visual studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.AboutForm.resources
+C:\Users\Игорь\Documents\Visual Studio 2015\Projects\Lab4\Lab4\obj\Debug\Lab4.Task2Form.resources
